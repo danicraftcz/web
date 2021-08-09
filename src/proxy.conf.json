@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "https://openchia.io",
+    "target": "https://www.czechiapool.cz/api/v1.0/overview",
     "secure": false
   },
   "/static": {
